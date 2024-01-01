@@ -1,0 +1,3 @@
+[0;34m--------------------------------------ADVANCED SCAN------------------------------------------[0m
+Dang quet lo hong he dieu hanh....[0m
+CVE: CVE-2021-42279, Severity: Critical

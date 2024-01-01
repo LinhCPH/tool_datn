@@ -1,0 +1,49 @@
+Host Name:                 DESKTOP-6SLDQKS
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19041 N/A Build 19041
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          rickgrim2201@gmail.com
+Registered Organization:
+Product ID:                00330-80000-00000-AA702
+Original Install Date:     12/30/2023, 6:41:29 PM
+System Boot Time:          12/30/2023, 6:38:49 PM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware7,1
+System Type:               x64-based PC
+Processor(s):              2 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1800 Mhz
+                           [02]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1800 Mhz
+BIOS Version:              VMware, Inc. VMW71.00V.18452719.B64.2108091906, 8/9/2021
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     2,047 MB
+Available Physical Memory: 1,440 MB
+Virtual Memory: Max Size:  3,199 MB
+Virtual Memory: Available: 2,033 MB
+Virtual Memory: In Use:    1,166 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\WIN-K8B3BVOANFN
+Hotfix(s):                 7 Hotfix(s) Installed.
+                           [01]: KB4534170
+                           [02]: KB4537759
+                           [03]: KB4545706
+                           [04]: KB4570334
+                           [05]: KB5006120
+                           [06]: KB5007115
+                           [07]: KB4566782
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.133.254
+                                 IP address(es)
+                                 [01]: 192.168.133.140
+                                 [02]: fe80::15d1:ee42:6468:f57b
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.

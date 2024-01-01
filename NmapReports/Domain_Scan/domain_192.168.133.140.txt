@@ -1,0 +1,3 @@
+DESKTOP-6SLDQKS Service
+WORKGROUP Domain/Workgroup
+DESKTOP-6SLDQKS Server
