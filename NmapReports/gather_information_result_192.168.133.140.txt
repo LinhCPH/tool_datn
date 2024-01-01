@@ -1,0 +1,112 @@
+[0;34m--------------------------------------GATHER INFORMATION------------------------------------------[0m
+[0;34m--------------------------OS VERSION / OPEN PORT -------------------------------[0m
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2023-12-31 12:50 EST
+192.168.133.140
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+5040/tcp open  unknown
+MAC Address: 00:0C:29:AE:C9:E6 (VMware)
+OS:SCAN(V=7.94SVN%E=4%D=12/31%OT=135%CT=1%CU=33042%PV=Y%DS=1%DC=D%G=Y%M=000
+OS:C29%TM=6591A9F6%P=x86_64-pc-linux-gnu)SEQ(SP=F5%GCD=1%ISR=110%TI=I%CI=I%
+OS:II=I%SS=S%TS=U)OPS(O1=M5B4NW8NNS%O2=M5B4NW8NNS%O3=M5B4NW8%O4=M5B4NW8NNS%
+OS:O5=M5B4NW8NNS%O6=M5B4NNS)WIN(W1=FFFF%W2=FFFF%W3=FFFF%W4=FFFF%W5=FFFF%W6=
+OS:FF70)ECN(R=Y%DF=Y%T=80%W=FFFF%O=M5B4NW8NNS%CC=N%Q=)T1(R=Y%DF=Y%T=80%S=O%
+OS:A=S+%F=AS%RD=0%Q=)T2(R=Y%DF=Y%T=80%W=0%S=Z%A=S%F=AR%O=%RD=0%Q=)T3(R=Y%DF
+OS:=Y%T=80%W=0%S=Z%A=O%F=AR%O=%RD=0%Q=)T4(R=Y%DF=Y%T=80%W=0%S=A%A=O%F=R%O=%
+OS:RD=0%Q=)T5(R=Y%DF=Y%T=80%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=80%W
+OS:=0%S=A%A=O%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=80%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)
+OS:U1(R=Y%DF=N%T=80%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%D
+OS:FI=N%T=80%CD=Z)
+
+
+Các cổng TCP đang mở: 135, 139, 445, 5040
+Các cổng UDP đang mở: 
+OS information: 
+---------------------------Domain and Group Information---------------------------
+DESKTOP-6SLDQKS Service
+WORKGROUP Domain/Workgroup
+DESKTOP-6SLDQKS Server
+---------------------------Thong tin dich vu SMB---------------------------
+
+PORT    STATE SERVICE      VERSION
+139/tcp open  netbios-ssn  Microsoft Windows netbios-ssn
+|_smb-enum-services: ERROR: Script execution failed (use -d to debug)
+445/tcp open  microsoft-ds Windows 10 Pro 19041 microsoft-ds (workgroup: WORKGROUP)
+|_smb-enum-services: ERROR: Script execution failed (use -d to debug)
+MAC Address: 00:0C:29:AE:C9:E6 (VMware)
+Service Info: Host: DESKTOP-6SLDQKS; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-capabilities: 
+|   2:0:2: 
+|     Distributed File System
+|   2:1:0: 
+|     Distributed File System
+|     Leasing
+|     Multi-credit operations
+|   3:0:0: 
+|     Distributed File System
+|     Leasing
+|     Multi-credit operations
+|   3:0:2: 
+|     Distributed File System
+|     Leasing
+|     Multi-credit operations
+|   3:1:1: 
+|     Distributed File System
+|     Leasing
+|_    Multi-credit operations
+| smb-enum-shares: 
+|   note: ERROR: Enumerating shares failed, guessing at common ones (NT_STATUS_ACCESS_DENIED)
+|   account_used: <blank>
+|   \\192.168.133.140\ADMIN$: 
+|     warning: Couldn't get details for share: NT_STATUS_ACCESS_DENIED
+|     Anonymous access: <none>
+|   \\192.168.133.140\C$: 
+|     warning: Couldn't get details for share: NT_STATUS_ACCESS_DENIED
+|     Anonymous access: <none>
+|   \\192.168.133.140\IPC$: 
+|     warning: Couldn't get details for share: NT_STATUS_ACCESS_DENIED
+|_    Anonymous access: READ
+| smb2-time: 
+|   date: 2023-12-31T17:51:19
+|_  start_date: N/A
+| smb-security-mode: 
+|   account_used: <blank>
+|   authentication_level: user
+|   challenge_response: supported
+|_  message_signing: disabled (dangerous, but default)
+| smb-os-discovery: 
+|   OS: Windows 10 Pro 19041 (Windows 10 Pro 6.3)
+|   OS CPE: cpe:/o:microsoft:windows_10::-
+|   Computer name: DESKTOP-6SLDQKS
+|   NetBIOS computer name: DESKTOP-6SLDQKS\x00
+|   Workgroup: WORKGROUP\x00
+|_  System time: 2023-12-31T09:51:19-08:00
+| smb-protocols: 
+|   dialects: 
+|     NT LM 0.12 (SMBv1) [dangerous, but default]
+|     2:0:2
+|     2:1:0
+|     3:0:0
+|     3:0:2
+|_    3:1:1
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+| smb-mbenum: 
+|   Master Browser
+|     DESKTOP-6SLDQKS  10.0  
+|   Potential Browser
+|     DESKTOP-6SLDQKS  10.0  
+|   Server service
+|     DESKTOP-6SLDQKS  10.0  
+|   Windows NT/2000/XP/2003 server
+|     DESKTOP-6SLDQKS  10.0  
+|   Workstation
+|_    DESKTOP-6SLDQKS  10.0  
+|_msrpc-enum: NT_STATUS_ACCESS_DENIED
+
+Open tcp ports: 135,139,445,5040

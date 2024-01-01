@@ -1,0 +1,108 @@
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[34m[*][0m Windows 10 Pro 19041 x64 (name:DESKTOP-6SLDQKS) (domain:DESKTOP-6SLDQKS) (signing:False) (SMBv1:True)
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m DESKTOP-6SLDQKS\user1:Pass123! [1m[33m[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Enumerated sessions
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Enumerated loggedon users
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating domain users using dc ip 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[34m[*][0m Trying with SAMRPC protocol
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating domain group using dc ip 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating local groups of 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Brute forcing RIDs
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m500: DESKTOP-6SLDQKS\Administrator (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m501: DESKTOP-6SLDQKS\Guest (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m503: DESKTOP-6SLDQKS\DefaultAccount (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m504: DESKTOP-6SLDQKS\WDAGUtilityAccount (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m513: DESKTOP-6SLDQKS\None (SidTypeGroup)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1001: DESKTOP-6SLDQKS\rickg (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1006: DESKTOP-6SLDQKS\defaultuser100000 (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1007: DESKTOP-6SLDQKS\kakar (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1010: DESKTOP-6SLDQKS\user1 (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[34m[*][0m Windows 10 Pro 19041 x64 (name:DESKTOP-6SLDQKS) (domain:DESKTOP-6SLDQKS) (signing:False) (SMBv1:True)
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m DESKTOP-6SLDQKS\user1:Pass123! [1m[33m[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Enumerated sessions
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Enumerated loggedon users
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating domain users using dc ip 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[34m[*][0m Trying with SAMRPC protocol
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating domain group using dc ip 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating local groups of 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Brute forcing RIDs
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m500: DESKTOP-6SLDQKS\Administrator (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m501: DESKTOP-6SLDQKS\Guest (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m503: DESKTOP-6SLDQKS\DefaultAccount (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m504: DESKTOP-6SLDQKS\WDAGUtilityAccount (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m513: DESKTOP-6SLDQKS\None (SidTypeGroup)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1001: DESKTOP-6SLDQKS\rickg (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1006: DESKTOP-6SLDQKS\defaultuser100000 (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1007: DESKTOP-6SLDQKS\kakar (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1010: DESKTOP-6SLDQKS\user1 (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[34m[*][0m Windows 10 Pro 19041 x64 (name:DESKTOP-6SLDQKS) (domain:DESKTOP-6SLDQKS) (signing:False) (SMBv1:True)
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m DESKTOP-6SLDQKS\user1:Pass123! [1m[33m[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Enumerated sessions
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Enumerated loggedon users
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating domain users using dc ip 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[34m[*][0m Trying with SAMRPC protocol
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating domain group using dc ip 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating local groups of 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Brute forcing RIDs
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m500: DESKTOP-6SLDQKS\Administrator (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m501: DESKTOP-6SLDQKS\Guest (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m503: DESKTOP-6SLDQKS\DefaultAccount (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m504: DESKTOP-6SLDQKS\WDAGUtilityAccount (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m513: DESKTOP-6SLDQKS\None (SidTypeGroup)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1001: DESKTOP-6SLDQKS\rickg (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1006: DESKTOP-6SLDQKS\defaultuser100000 (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1007: DESKTOP-6SLDQKS\kakar (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1010: DESKTOP-6SLDQKS\user1 (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[34m[*][0m Windows 10 Pro 19041 x64 (name:DESKTOP-6SLDQKS) (domain:DESKTOP-6SLDQKS) (signing:False) (SMBv1:True)
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m DESKTOP-6SLDQKS\user1:Pass123! [1m[33m[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Enumerated sessions
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Enumerated loggedon users
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating domain users using dc ip 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[34m[*][0m Trying with SAMRPC protocol
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating domain group using dc ip 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating local groups of 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Brute forcing RIDs
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m500: DESKTOP-6SLDQKS\Administrator (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m501: DESKTOP-6SLDQKS\Guest (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m503: DESKTOP-6SLDQKS\DefaultAccount (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m504: DESKTOP-6SLDQKS\WDAGUtilityAccount (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m513: DESKTOP-6SLDQKS\None (SidTypeGroup)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1001: DESKTOP-6SLDQKS\rickg (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1006: DESKTOP-6SLDQKS\defaultuser100000 (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1007: DESKTOP-6SLDQKS\kakar (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1010: DESKTOP-6SLDQKS\user1 (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[34m[*][0m Windows 10 Pro 19041 x64 (name:DESKTOP-6SLDQKS) (domain:DESKTOP-6SLDQKS) (signing:False) (SMBv1:True)
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m DESKTOP-6SLDQKS\user1:Pass123! [1m[33m[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Enumerated sessions
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Enumerated loggedon users
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating domain users using dc ip 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[34m[*][0m Trying with SAMRPC protocol
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating domain group using dc ip 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating local groups of 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Brute forcing RIDs
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m500: DESKTOP-6SLDQKS\Administrator (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m501: DESKTOP-6SLDQKS\Guest (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m503: DESKTOP-6SLDQKS\DefaultAccount (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m504: DESKTOP-6SLDQKS\WDAGUtilityAccount (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m513: DESKTOP-6SLDQKS\None (SidTypeGroup)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1001: DESKTOP-6SLDQKS\rickg (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1006: DESKTOP-6SLDQKS\defaultuser100000 (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1007: DESKTOP-6SLDQKS\kakar (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1010: DESKTOP-6SLDQKS\user1 (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[34m[*][0m Windows 10 Pro 19041 x64 (name:DESKTOP-6SLDQKS) (domain:DESKTOP-6SLDQKS) (signing:False) (SMBv1:True)
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m DESKTOP-6SLDQKS\user1:Pass123! [1m[33m[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Enumerated sessions
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Enumerated loggedon users
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating domain users using dc ip 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[34m[*][0m Trying with SAMRPC protocol
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating domain group using dc ip 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[31m[-][0m Error enumerating local groups of 192.168.133.140: socket connection error while opening: [Errno 111] Connection refused
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[32m[+][0m Brute forcing RIDs
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m500: DESKTOP-6SLDQKS\Administrator (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m501: DESKTOP-6SLDQKS\Guest (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m503: DESKTOP-6SLDQKS\DefaultAccount (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m504: DESKTOP-6SLDQKS\WDAGUtilityAccount (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m513: DESKTOP-6SLDQKS\None (SidTypeGroup)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1001: DESKTOP-6SLDQKS\rickg (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1006: DESKTOP-6SLDQKS\defaultuser100000 (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1007: DESKTOP-6SLDQKS\kakar (SidTypeUser)[0m
+[1m[34mSMB[0m         192.168.133.140 445    DESKTOP-6SLDQKS  [1m[33m1010: DESKTOP-6SLDQKS\user1 (SidTypeUser)[0m

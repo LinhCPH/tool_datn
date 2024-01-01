@@ -1,0 +1,45 @@
+Host Name:                 CHAUPHANHOAILIN
+OS Name:                   Microsoft Windows Server 2016 Datacenter Evaluation
+OS Version:                10.0.14393 N/A Build 14393
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Primary Domain Controller
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:
+Product ID:                00377-10000-00000-AA360
+Original Install Date:     4/10/2022, 12:49:42 AM
+System Boot Time:          12/29/2023, 12:27:24 AM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware7,1
+System Type:               x64-based PC
+Processor(s):              2 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1800 Mhz
+                           [02]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1800 Mhz
+BIOS Version:              VMware, Inc. VMW71.00V.18452719.B64.2108091906, 8/9/2021
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              vi;Vietnamese
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     2,047 MB
+Available Physical Memory: 653 MB
+Virtual Memory: Max Size:  2,623 MB
+Virtual Memory: Available: 878 MB
+Virtual Memory: In Use:    1,745 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    hoailinh110.it
+Logon Server:              \\CHAUPHANHOAILIN
+Hotfix(s):                 3 Hotfix(s) Installed.
+                           [01]: KB3192137
+                           [02]: KB3211320
+                           [03]: KB3213986
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.133.254
+                                 IP address(es)
+                                 [01]: 192.168.133.139
+                                 [02]: fe80::2894:42be:1806:37e3
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
